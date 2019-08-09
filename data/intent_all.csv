@@ -1,0 +1,590 @@
+When do you open,hours_info
+When are you open,hours_info
+What days are you closed on?,hours_info
+When do you close,hours_info
+Are you open on public holidays?,hours_info
+Are you open on Saturdays?,hours_info
+What time are you open until?,hours_info
+What are your hours of operation?,hours_info
+What are your hours?,hours_info
+Are you open on Sundays?,hours_info
+what are you hours of operation,hours_info
+list of your locations,location_info
+Where are your stores?,location_info
+Where are you physically located?,location_info
+What are your locations?,location_info
+List of location,location_info
+Give me a list of locations,location_info
+Locations in Canada,location_info
+locations in America,location_info
+what's the address of your Vancouver store?,location_info
+What's the address of your Toronto store?,location_info
+do you have a instuite in Ameerpet,location_info
+do you any brances near gachibowli,location_info
+Do you plan to have branches in other locations in the future?,location_info
+Do you have other branches?,location_info
+your office near my location?,location_info
+Where are you located?,location_info
+What branches do you have?,location_info
+How many branches do you have?,location_info
+What if I miss a session?,miss_session
+Can you cover if  miss a few classes while training?,miss_session
+Is there any makeup session if I miss a few classes?,miss_session
+Do you provide backup sessions ?,miss_session
+Can I take a break?,miss_session
+Is a break available?,miss_session
+Can I continue after a break?,miss_session
+Can I take leave for a few days?,miss_session
+Are there backup classes?,miss_session
+Are backup classes conducted?,miss_session
+What are the prerequisites for this Hadoop Training Course,big_data
+Do I need to know anything before leaning the Hadoop course,big_data
+Do I need to have some programming knowledge to learn Hadoop,big_data
+Is it mandatory to know some kind of programming to learn hadoop,big_data
+Is programming important to learn Hadoop,big_data
+What are the tools in Big Data?,big_data
+What kind of tools do we use for Big Data?,big_data
+What tools do we use in big data?,big_data
+What tools should we learn for Big data course?,big_data
+What technologies do we use for the Big data training course?,big_data
+What is Apache Flume?,big_data
+What do you mean by Apache Flume?,big_data
+Apache Flume?,big_data
+Can you explain what Apache Flume is ?,big_data
+Is Apache Flume used in log datas?,big_data
+What is Big Data?,big_data
+Big Data?,big_data
+What do u mean by Bigdata?,big_data
+Can you explain what bigdata is?,big_data
+What is HIVE?,big_data
+Is Hive in bigdata?,big_data
+Is hive same as sql?,big_data
+What do u mean by hive?,big_data
+Is hive similar to SQL?,big_data
+What is Hadoop?,big_data
+What is Hadoop used for?,big_data
+Is hadoop used in bigdata?,big_data
+What do u mean by hadoop?,big_data
+What is Scala?,big_data
+Where is scala used?,big_data
+Is scala similar to python?,big_data
+What is scala used for?,big_data
+What is Spark and how does it work?,big_data
+What is spark?,big_data
+Where is spark used?,big_data
+How is spark similar to hadoop?,big_data
+Is apache spark an open source language?,big_data
+What is the eligibility to enroll in the courses?,big_data
+What are the prerequisites to join the course?,big_data
+What is the training methodology? Is it conceptual / hands on? Are there any projects / case studies?,courses
+What is the training methodology?,courses
+Is the training conceptual or hands on?,courses
+Are there any projects / case studies?,projects
+Are there any capstone projects after finishing the course?,projects
+What kind of salary can I expect after completing an analytics course?,placement
+What is the salary after I finish the course?,placement
+What is the salary for freshers?,placement
+What qualifications do I need for Big data Hadoop developer?,big_data
+What technologies should I be perfect in to be a big data hadoop developer?,big_data
+What topics do I need to know to become a hadoop developer?,big_data
+What programming language do I need to know if I need a career as a bigdata developer?,big_data
+What kind of offers will I get after finishing the course in data science?,placement
+What is the role of a bigdata developer in a company?,placement
+"Where does the name ""Scala"" come from?",big_data
+How was scala formed?,big_data
+How is the name scala related to programming?,big_data
+,
+,
+,
+Whats the difference between hadoop and spark?,big_data
+Is hadoop better or spark?,big_data
+Where does mapreduce concept come in ? hadoop or spark?,big_data
+,
+,
+,
+,
+,
+,
+,
+What do you mean by RPA express?,rpa
+What is RPA and how does it work?,rpa
+Is RPA Express a free product?,rpa
+Is rpa free?,rpa
+What is a bot?,rpa
+What do u mean by a bot?,rpa
+How do u use a bot?,rpa
+What are some typical use cases of rpa?,rpa
+Where do u use rpa express?,rpa
+Examples of rpa?,rpa
+How is rpa used?,rpa
+What is Automation Anywhere Tool?,rpa
+What do u mean by Automation Anywhere Tool?,rpa
+How do u use a Automation Anywhere Tool?,rpa
+Is Automation Anywehre Tool and rpa same?,rpa
+What is the difference between Automation Anywhere Tool? And rpa?,rpa
+What is the difference between Automation Anywahre Tool and rpa?,rpa
+Is Uipath open source?,rpa
+Where is uipath used?,rpa
+Who uses uipath?,rpa
+What is RPA Tool?,rpa
+What do you mean by rpa tool?,rpa
+Where is rpa tool used?,rpa
+What is the license cost for UiPath?,rpa
+How much does it cost to set up UI path?,rpa
+How RPA is different from Automation?,rpa
+How is RPA different from Automation?,rpa
+Where is automation used and how is it different from rpa?,rpa
+Is RPA AI?,rpa
+Is rpa artificial intelligence?,rpa
+Is rpa actually just ai?,rpa
+Is RPA the future?,rpa
+How is the future for rpa?,rpa
+How is rpa going to be in the future?,rpa
+Does rpa have a good future?,rpa
+Which Language should I learn Python or R?,data_science
+Which Language is the most used in data science?,data_science
+Python or R?,data_science
+What is the most prolific language in data science?,data_science
+Which is better Python or R?,data_science
+What is the Next Big Thing in Data Science?,data_science
+What will hit big in Data Science?,data_science
+What is the most happening thing in Data Science now?,data_science
+What is the most popular Data Science technology?,data_science
+What is the hottest technology in Data Science?,data_science
+What is the most popular framework in Data Science?,data_science
+Where should I learn Data Science from?,data_science
+How should I learn Data Science?,data_science
+Best Institute to learn Data Science from?,data_science
+Which Institutes teach Data Science?,data_science
+What do you teach?,data_science
+Popular ways to learn Data Science?,data_science
+Where can I learn Data Science?,data_science
+Popular Institutes to teach Data Science?,data_science
+Do I need an extremely powerful computer to do Data Science?,data_science
+Do I need an extremely powerful laptop to do Data Science?,data_science
+Do I need a new and powerful computer to do Data Science?,data_science
+Do I need a new and powerful laptop to do Data Science?,data_science
+Do I need a powerful computer to do Data Science?,data_science
+How much time should I spend studying Data Science?,data_science
+How much time to spend to study Data Science?,data_science
+How much time to study Data Science?,data_science
+How long should I study Data Science?,data_science
+How much effort should I put in studying Data Science?,data_science
+How much effort to put in studying Data Science?,data_science
+How many hours should I study Data Science?,data_science
+"Can you recommend some blogs, podcasts, courses, etc. that I can follow?",data_science
+Can you recommend some blogs that I can follow?,data_science
+Can you recommend some podcasts that I can follow?,data_science
+Can you recommend some courses that I can follow?,data_science
+Can you recommend some good blogs to follow?,data_science
+Best blogs for Data Science?,data_science
+Which articles to follow on Data Science?,data_science
+Best articles on Data Science?,data_science
+Where do I get good Data Science articles?,data_science
+Where do I start learning Data Science?,data_science
+Where to learn Data Science from?,data_science
+What skills are most important in Data Science Jobs?,data_science
+What skills are important for a Data Scientist?,data_science
+What skills does a  Data Scientist need to have?,data_science
+What skills do employers look for in a Data Science job?,data_science
+skills for Data Science Jobs?,data_science
+skills for Data Scientist?,data_science
+skills to prosper in Data Science?,data_science
+What skills do I need to have?,data_science
+What skills must i possess to succeed as a Data Scientist?,data_science
+What is the median salary for a Data Scientist?,data_science
+What is the salary for a Data Scientist?,data_science
+What is the salary for Data Science job?,data_science
+How much does a Data Scientist earn?,data_science
+What is the salary?,data_science
+Payslip for a Data Scientist?,data_science
+What is the average salary for a Data Scientist?,data_science
+What is the average salary for a Data Science professional?,data_science
+Where can I get datasets from for my personal and coursework projects?,data_science
+Where can I get datasets?,data_science
+Where to get datasets for projects?,data_science
+datasets?,data_science
+Where are datasets available?,data_science
+How to get datasets?,data_science
+What are the best places to get datasets from?,data_science
+What does a Data Science Job usually involve?,data_science
+What does a Data Scientist do?,data_science
+What is Data Science?,data_science
+What does a Data Science professional do?,data_science
+What is the job of a Data Scientist?,data_science
+Who does model building?,data_science
+Who does data cleaning?,data_science
+Who does data prepping?,data_science
+What does a Data Science job entail?,data_science
+What factors should I consider while looking for a Data Science Job?,data_science
+What is important for a Data Science Job?,data_science
+What do you suggest is important for a Data Science Job?,data_science
+What should my priority be for considering a Data Science Job?,data_science
+How important is a degree to be successful in Data Science?,data_science
+Should I have a degree?,data_science
+Is degree important?,data_science
+Is having a degree important?,data_science
+Is degree necessary for successful Data Scientist?,data_science
+What are the most important things to have on a Data Science resume?,data_science
+How should a Data Science resume look like?,data_science
+Resume?,data_science
+How should my resume look like?,data_science
+What are the things that should be in a Data Scientist resume?,data_science
+Do I need to know the Math behind the ML Algorithms I use?,data_science
+Should I know the Math behind ML Algorithms?,data_science
+How is the Math behind the ML Algorithms I use?,data_science
+Difference between ML and AI?,data_science
+What is the difference between ML and AI?,data_science
+Difference between Machine Learning and Artificial Intelligence?,data_science
+What is the difference between Machine Learning and Artificial Intelligence?,data_science
+ML and AI?,data_science
+Machine Learning and Artificial Intelligence?,data_science
+What is DL?,data_science
+What is Deep Learning?,data_science
+What do you mean by DL?,data_science
+What do you mean by Deep Learning?,data_science
+DL?,data_science
+Deep Learning?,data_science
+What is the difference between ML and DL?,data_science
+What is the difference between Machine Learning and Deep Learning?,data_science
+What are the prerequisites to learn data science?,data_science
+Deep Learning means?,data_science
+How do I join Data Science program?,data_science
+How do I join Python course?,data_science
+What can I expect from the Data Science program?,data_science
+What can I expect from the Python program?,data_science
+What can I expect from the Python course?,data_science
+What can I expect from the Data Science course?,data_science
+What is the syllabus for data science?,data_science
+syllabus for Data Science?,data_science
+Is there a chance of becoming a permanent employee after the Internship?,placement
+Can I become a permanent employee after the Internship?,placement
+Do I become a permanent employee after the Internship?,placement
+Is there a chance of becoming a permanent employee after the course at Innomatics?,placement
+Can I become a permanent employee after the course at Innomatics?,placement
+Is there a chance of becoming a permanent employee after the Data Science course at Innomatics?,placement
+Can I become a permanent employee after the Data Science course at Innomatics?,placement
+Is there a chance of becoming a permanent employee after the Internship at Innomatics?,placement
+Can I become a permanent employee after the Internship at Innomatics?,placement
+Do I become a permanent employee after the Internship at Innomatics?,placement
+Can we get a case study in Data Science course?,placement
+Can we get a case study after Data Science course?,placement
+Can we get a case study in the course?,placement
+Can we get a case study after the course?,placement
+Do we get a case study in Data Science course?,placement
+Do we get a case study after Data Science course?,placement
+Do we get a case study in the course?,placement
+Do we get a case study after the course?,placement
+Do we get to work on a case study in Data Science course?,placement
+Do we get to work on a case study after Data Science course?,placement
+Do we get to work on a case study in the course?,placement
+Do we get to work on a case study after the course?,placement
+Who are our trainers and how are they selected?,faculty
+Who teach us?,faculty
+Who are our teachers?,faculty
+How are the trainers?,faculty
+How do the faculty teach?,faculty
+How are the faculty?,faculty
+Is online classroom training there?,online_traning
+Is online classroom training option available?,online_traning
+Is this live training or will I watch pre-recorded videos?,online_traning
+Are there pre recorded videos?,online_traning
+Will I watch pre recorded videos?,online_traning
+Are there in person classes?,online_traning
+How will I listen to classes?,online_traning
+How is the live training?,online_traning
+Do you provide online classes / training,online_traning
+Are online classes available?,online_traning
+Are there any online classes available?,online_traning
+Online sessions available?,online_traning
+Are there any online sessions available?,online_traning
+Online programs available?,online_traning
+Are there any online programs available?,online_traning
+Online batches available?,online_traning
+Are there any online batches available?,online_traning
+Will you provide online classes?,online_traning
+Online classes provided?,online_traning
+Are there any online classes?,online_traning
+Are there any online classes provided?,online_traning
+Do we have an online option for the classes?,online_traning
+Can I access the online classes?,online_traning
+Do I have access to the Online Classes?,online_traning
+Can I attend online classes?,online_traning
+I cannot make it for the inclass sessions. Do you have an online option?,online_traning
+I cannot make it for the inclass sessions. Can I attend online?,online_traning
+Will you provide online sessions?,online_traning
+Online sessions provided?,online_traning
+Are there any online sessions?,online_traning
+Are there any online sessions provided?,online_traning
+Do we have an online option for the sessions?,online_traning
+Can I access the online sessions?,online_traning
+Do I have access to the Online sessions?,online_traning
+Can I attend online sessions?,online_traning
+Will you provide online programs?,online_traning
+Online programs provided?,online_traning
+Are there any online programs?,online_traning
+Are there any online programs provided?,online_traning
+Do we have an online option for the programs?,online_traning
+Can I access the online programs?,online_traning
+Do I have access to the Online programs?,online_traning
+Can I attend online programs?,online_traning
+Will you provide online courses?,online_traning
+Online courses provided?,online_traning
+Are there any online courses?,online_traning
+Are there any online courses provided?,online_traning
+Do we have an online option for the courses?,online_traning
+Can I access the online courses?,online_traning
+Do I have access to the Online courses?,online_traning
+Can I attend online courses?,online_traning
+Are the training and course material effective in preparing me for the Data Scientist Interview?,materials
+Are the training material effective?,materials
+Are the course material effective?,materials
+Are the training and course material effective?,materials
+Soft and hard copy of content?,materials
+Soft and hard copy of course content?,materials
+Do you provide soft and hard copy of content?,materials
+Do you provide soft and hard copy of course content?,materials
+Can I get soft and hard copy of content?,materials
+Can I get soft and hard copy of course content?,materials
+Will I get soft and hard copy of content?,materials
+Will I get soft and hard copy of course content?,materials
+Course material?,materials
+Soft and hard copy of course material?,materials
+Soft and hard copy of program?,materials
+Do you provide soft and hard copy of course material?,materials
+Do you provide soft and hard copy of the program?,materials
+Can I get soft and hard copy of program?,materials
+Can I get soft and hard copy of course material?,materials
+Will I get soft and hard copy of program?,materials
+Will I get soft and hard copy of course material?,materials
+Do you provide course material?,materials
+Do you provide  course material of the program?,materials
+Can I get course material of program?,materials
+Can I get course material?,materials
+Will I get course material of program?,materials
+Will I get course material?,materials
+Is it possible to have the application fee waived?,fee
+Fee waiver?,fee
+Will I get a discount?,fee
+Is discount available?,fee
+Reduction in fee?,fee
+How much is fee?,fee
+Can the fee be a little less?,fee
+Can the fee be reduced?,fee
+How should I pay the fee?,payment_mode
+payment mode?,payment_mode
+Fee payment?,payment_mode
+How to pay?,payment_mode
+where to pay the fee?,payment_mode
+Do you accept credit cards?,payment_mode
+Can I pay in person?,payment_mode
+I am not from IT. Is this course suitable?,start_course
+Do you have any programs for non-IT professionals?,start_course
+Can non-IT people join this program?,start_course
+Do you have any programs for non IT professionals?,start_course
+Can non IT people join this program?,start_course
+Programs for non-IT professionals?,start_course
+Programs for non IT professionals?,start_course
+I am a non-IT professional. Can I join this program?,start_course
+I am a non IT professional. Can I join this program?,start_course
+I am a non-IT professional. Is this program suitable for me?,start_course
+I am a non IT professional. Is this program suitable for me?,start_course
+I am a non-IT professional. Is this program suitable?,start_course
+I am a non IT professional. Is this program suitable?,start_course
+I am not from IT. Can I join this program?,start_course
+I am not from IT. Is this program suitable for me?,start_course
+I am not from IT. Is this program suitable?,start_course
+Who can learn Data Science?,start_course
+Can a fresher Data Science?,start_course
+Is Data Science for a fresher?,start_course
+I just finished my graduation. Can I learn Data Science?,start_course
+Can I learn Data Science?,start_course
+I am an experienced person. How will Data Science help me?,start_course
+I am an experienced person. How Data Science will help me?,start_course
+I am an experienced person. How Data Science helps me?,start_course
+How will Data Science help me?,start_course
+How Data Science will help me?,start_course
+How Data Science helps me?,start_course
+I want to shift my career to Data Science,start_course
+Can I shift my career to Data Sceince,start_course
+I want to change my career to Data Science,start_course
+Can I change my career to Data Sceince,start_course
+How do I shift my career to Data Science?,start_course
+How do I change my career to Data Science?,start_course
+How can I shift my career to Data Science?,start_course
+How can I change my career to Data Science?,start_course
+Evening classes available?,timmings
+Evening batches available?,timmings
+Evening sessions available?,timmings
+Do you have evening classes?,timmings
+Do you have evening batches?,timmings
+Do you have evening sessions?,timmings
+Do you offer evening classes?,timmings
+Do you offer evening sessions?,timmings
+Do you offer evening batches?,timmings
+Do you have evening classes available?,timmings
+Are there any evening classes?,timmings
+Can I attend any evening classes?,timmings
+Do you have evening batches available?,timmings
+Do you have evening sessions available?,timmings
+Are there any evening sessions ?,timmings
+Are there any evening batches?,timmings
+Can I attend any evening sessions?,timmings
+Can I attend any evening batches?,timmings
+What are the timeslots for batches?,timmings
+What are the timeslots?,timmings
+tomeslot?,timmings
+Timetable,timmings
+Time table,timmings
+What is the time table?,timmings
+What is the time table at Innomatics?,timmings
+Can you give the time slots for the batches?,timmings
+Can you give the time table for the batches?,timmings
+Do you teach Tableau?,courses
+Do you teach Big Data?,courses
+Do you teach Cloud computind?,courses
+Do you teach R?,courses
+Do you teach AI?,courses
+Do you teach Artificial Intelligence?,courses
+Do you teach ML,courses
+Do you teach Machine Learning?,courses
+Do you teach Hadoop?,courses
+Do you teach AWS?,courses
+Do you teach Azure?,courses
+Do you teach RPA?,courses
+Do you teach Spark?,courses
+Do you teach Scala?,courses
+Do you teach PowerBI?,courses
+Is Tableau taught?,courses
+Is Big Data taught?,courses
+Is Cloud computing taught?,courses
+Is R programming taught?,courses
+Is AI taught?,courses
+Is Artificial Intelligence taught?,courses
+Is ML taught?,courses
+Is Machine learning taught?,courses
+Is Hadoop taught?,courses
+Is AWS taught?,courses
+Is Azure taught?,courses
+Is RPA taught?,courses
+Is Spark taught?,courses
+Is Scala taught?,courses
+Is PowerBI taught?,courses
+Is Tableau offered?,courses
+Is Big Data offered?,courses
+Is Cloud computing offered?,courses
+Is R programming offered?,courses
+Is AI offered?,courses
+Is Artificial Intelligence offered?,courses
+Is ML offered?,courses
+Is Machine learning offered?,courses
+Is Hadoop offered?,courses
+Is AWS offered?,courses
+Is Azure offered?,courses
+Is RPA offered?,courses
+Is Spark offered?,courses
+Is Scala offered?,courses
+Is PowerBI offered?,courses
+Courses offered by Innomatics?,courses
+What are the courses offered by Innomatics?,courses
+What courses do you offer?,courses
+What can I learn at Innomatics?,courses
+In Innomatics what courses do you offer?,courses
+Courses provided by Innomatics?,courses
+What are the courses provided by Innomatics?,courses
+What courses do you provide?,courses
+In Innomatics what courses do you provide?,courses
+Courses taught by Innomatics?,courses
+What courses do you teach?,courses
+What are the courses taught at Innomatics?,courses
+What courses do you teach at Innomatics?,courses
+What else do you teach at Innomatics?,courses
+Contact details of the Institute?,contact
+What are the contact details of the Institute?,contact
+Can you please provide the contact details of the Institute?,contact
+Contact details?,contact
+What are the contact details?,contact
+Can you please provide the contact details?,contact
+Can you please give the contact details?,contact
+Can you please give the contact details of the Institute?,contact
+Can you provide the contact details?,contact
+Can you give the contact details?,contact
+Can you give the contact details of the Institute?,contact
+Could you please provide the contact details?,contact
+Could you please give the contact details?,contact
+Could you please give the contact details of the Institute?,contact
+Could you provide the contact details?,contact
+Could you give the contact details?,contact
+Could you give the contact details of the Institute?,contact
+How can I contact you?,contact
+Can I give you a call?,contact
+How may I contact you?,contact
+Project,projects
+Will there be any projects?,projects
+Will there be any real time projects?,projects
+Do you provide projects?,projects
+Do you provide real time projects?,projects
+Will I get to work on any projects?,projects
+Will I get to work on any real time projects?,projects
+Will there be any capstone projects?,projects
+Do you provide capstone projects?,projects
+Will I get to work on any capstone projects?,projects
+Do I get to work on any projects?,projects
+Do I get to work on any capstone projects?,projects
+Do I get to work on any real time projects?,projects
+Do we get to work on any projects?,projects
+Do we get to work on any capstone projects?,projects
+Do we get to work on any real time projects?,projects
+Do I get to work on projects?,projects
+Do I get to work on capstone projects?,projects
+Do I get to work on real time projects?,projects
+Do we get to work on projects?,projects
+Do we get to work on capstone projects?,projects
+Do we get to work on real time projects?,projects
+Will I get to work on projects?,projects
+Will I get to work on real time projects?,projects
+Will there be capstone projects?,projects
+Will there be projects?,projects
+Will there be real time projects?,projects
+Will there be capstone projects?,projects
+Do you provide any projects?,projects
+Do you provide any real time projects?,projects
+Do you provide any capstone projects?,projects
+What is the class strength?,class_strength
+Strength of the class?,class_strength
+Can I know what the strength of the class is?,class_strength
+How many students are there in one class?,class_strength
+Class strength?,class_strength
+How many are there in a class?,class_strength
+How many are there in one class?,class_strength
+Do you provide any systems?,accessories
+Do you provide systems?,accessories
+Do you provide computers?,accessories
+Do you provide any computers?,accessories
+Is there a lab?,accessories
+Is there any provision for computers?,accessories
+Is there any provision for systems?,accessories
+Will I get a computer?,accessories
+Will I get a computer to work on?,accessories
+Will we get any course certificate?,certificate
+Do we get any course certificate?,certificate
+Are any course certificates offered?,certificate
+Are any course certificates provided?,certificate
+Will we get course certificate?,certificate
+Do we get course certificate?,certificate
+Are course certificates offered?,certificate
+Are course certificates provided?,certificate
+Do you give the course certificates after the completion of the course?,certificate
+Will we get any certificate?,certificate
+Do we get any certificate?,certificate
+Are any certificates offered?,certificate
+Are any certificates provided?,certificate
+Will we get certificate?,certificate
+Do we get certificate?,certificate
+Are certificates offered?,certificate
+Are certificates provided?,certificate
+Do you give the certificates after the completion of the course?,certificate
+Why Innomatics?,why_enroll
+Why should I enroll in your program?,why_enroll
+What things do u do different from other institutions?,why_enroll
+How is your course different from other institutions?,why_enroll
